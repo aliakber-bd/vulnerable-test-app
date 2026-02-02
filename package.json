@@ -1,0 +1,22 @@
+{
+  "name": "vulnerable-test-app",
+  "version": "1.0.0",
+  "description": "Test application with multiple vulnerabilities",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.16.0",
+    "lodash": "4.17.11",
+    "request": "2.88.0",
+    "axios": "0.18.0",
+    "moment": "2.19.3",
+    "mysql": "2.15.0",
+    "jsonwebtoken": "8.3.0",
+    "validator": "10.8.0",
+    "bcrypt": "3.0.0",
+    "xml2js": "0.4.19",
+    "handlebars": "4.0.11",
+    "serialize-javascript": "1.4.0",
+    "minimist": "1.2.0",
+    "js-yaml": "3.12.0"
+  }
+}
